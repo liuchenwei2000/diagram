@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-03-19T09:52:06.878Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="VLdxKZTscnRbRbkb5z_U" version="12.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-03-19T10:14:06.785Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="wC5UIooZ_HAkKs34CgV6" version="12.8.8" type="github">
   <diagram id="d-cUwv-51pwWqw412W-w" name="Page-1">
     <mxGraphModel dx="893" dy="498" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -201,10 +201,10 @@
           <mxGeometry x="390" y="1070" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-JSyuyc6FNK8s3EoQKlf-5" value="菜品组 PubitemTeam&lt;br&gt;CBOH_PUBITEMTEAM_3CH" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="1330" width="146" height="60" as="geometry" />
+          <mxGeometry x="44" y="1330" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-JSyuyc6FNK8s3EoQKlf-9" value="门店品牌&amp;nbsp;Brand&lt;br&gt;CBOH_BRAND_3CH" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="1450" width="165" height="60" as="geometry" />
+          <mxGeometry x="130" y="1550" width="165" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-JSyuyc6FNK8s3EoQKlf-14" value="菜品 PubItem&lt;br&gt;CBOH_PUBITEM_3CH" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="1200" width="170" height="60" as="geometry" />
@@ -222,7 +222,7 @@
           <mxGeometry x="580" y="1200" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-JSyuyc6FNK8s3EoQKlf-20" value="附加项 Redfine&lt;br&gt;CBOH_REDEFINE_3CH" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="1320" width="170" height="60" as="geometry" />
+          <mxGeometry x="580" y="1430" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-JSyuyc6FNK8s3EoQKlf-21" value="" style="endArrow=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="-JSyuyc6FNK8s3EoQKlf-14" target="-JSyuyc6FNK8s3EoQKlf-19">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -245,10 +245,10 @@
           <mxGeometry x="475" y="1210" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="-JSyuyc6FNK8s3EoQKlf-39" value="菜品门店编码 PubItemCode&lt;br&gt;CBOH_PUBITEMCODE_3CH" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="1330" width="170" height="60" as="geometry" />
+          <mxGeometry x="130" y="1430" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-JSyuyc6FNK8s3EoQKlf-40" value="菜品组明细 PubitemTeamDetail&lt;br&gt;CBOH_PUBITEMTEAMDETAIL_3CH" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="1200" width="190" height="60" as="geometry" />
+          <mxGeometry x="20" y="1200" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-JSyuyc6FNK8s3EoQKlf-43" value="" style="endArrow=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-JSyuyc6FNK8s3EoQKlf-40" target="-JSyuyc6FNK8s3EoQKlf-14">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -289,16 +289,67 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-JSyuyc6FNK8s3EoQKlf-51" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="1310" width="20" height="20" as="geometry" />
+          <mxGeometry x="230" y="1410" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="-JSyuyc6FNK8s3EoQKlf-52" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="1260" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="-JSyuyc6FNK8s3EoQKlf-53" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="-JSyuyc6FNK8s3EoQKlf-39">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="315" y="1450" as="sourcePoint" />
-            <mxPoint x="440" y="1280" as="targetPoint" />
+            <mxPoint x="215" y="1550" as="sourcePoint" />
+            <mxPoint x="215" y="1500" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="-JSyuyc6FNK8s3EoQKlf-54" value="必选附加项 ProdcutReqAttac&lt;br&gt;CBOH_PRODCUTREQATTAC_3CH" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="1330" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-JSyuyc6FNK8s3EoQKlf-55" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.527;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="-JSyuyc6FNK8s3EoQKlf-54" target="-JSyuyc6FNK8s3EoQKlf-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="1370" as="sourcePoint" />
+            <mxPoint x="440" y="1320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-JSyuyc6FNK8s3EoQKlf-56" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="1260" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-JSyuyc6FNK8s3EoQKlf-59" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="404" y="1310" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-JSyuyc6FNK8s3EoQKlf-60" value="附加项设置中间表 ProductRedfine&lt;br&gt;CBOH_PRODUCTREDFINE_3CH" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="565" y="1330" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-JSyuyc6FNK8s3EoQKlf-62" value="" style="endArrow=none;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="-JSyuyc6FNK8s3EoQKlf-60" target="-JSyuyc6FNK8s3EoQKlf-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="1450" as="sourcePoint" />
+            <mxPoint x="440" y="1400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-JSyuyc6FNK8s3EoQKlf-64" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="1260" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-JSyuyc6FNK8s3EoQKlf-65" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="1310" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-JSyuyc6FNK8s3EoQKlf-66" value="" style="endArrow=none;html=1;entryX=0.528;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="-JSyuyc6FNK8s3EoQKlf-20" target="-JSyuyc6FNK8s3EoQKlf-60">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="1450" as="sourcePoint" />
+            <mxPoint x="440" y="1400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-JSyuyc6FNK8s3EoQKlf-68" value="" style="endArrow=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="-JSyuyc6FNK8s3EoQKlf-54" target="-JSyuyc6FNK8s3EoQKlf-60">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="1450" as="sourcePoint" />
+            <mxPoint x="440" y="1400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-JSyuyc6FNK8s3EoQKlf-69" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="495" y="1340" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-JSyuyc6FNK8s3EoQKlf-70" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="1340" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-JSyuyc6FNK8s3EoQKlf-71" value="附加项" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="524" y="1285" width="50" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
