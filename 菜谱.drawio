@@ -1,1 +1,93 @@
-<mxfile host="www.draw.io" modified="2020-03-20T01:44:10.598Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" version="12.8.8" etag="0DNDEpxRf6V77lrJNA2V" type="github"><diagram id="YjKeF_FXg8-f9JpqsyVf">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2020-03-20T02:41:48.932Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="VRvsXcR0iKP3G1d4zzTi" version="12.8.8" type="github">
+  <diagram id="YjKeF_FXg8-f9JpqsyVf" name="Page-1">
+    <mxGraphModel dx="893" dy="498" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="T7OsTbxaAlnbgz34bx-q-1" value="PAD类别 IPad&lt;br&gt;CBOH_IPAD_3CH" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="209" y="30" width="146" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T7OsTbxaAlnbgz34bx-q-2" value="菜谱明细之适用门店 ItemprgFirm&lt;br&gt;CBOH_ITEMPRGFIRM_3CH" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="30" width="146" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T7OsTbxaAlnbgz34bx-q-3" value="菜谱明细之PAD类别 ItemprgPad&lt;br&gt;CBOH_ITEMPRGPAD_3CH" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="30" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T7OsTbxaAlnbgz34bx-q-4" value="菜品 Pubitem&lt;br&gt;CBOH_PUBITEM_3CH" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="67" y="270" width="156" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T7OsTbxaAlnbgz34bx-q-6" value="菜谱方案 ItemPrgm&lt;br&gt;CBOH_ITEMPRGM_3CH" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="160" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T7OsTbxaAlnbgz34bx-q-7" value="" style="endArrow=none;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="T7OsTbxaAlnbgz34bx-q-6" target="T7OsTbxaAlnbgz34bx-q-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="458.5999999999999" y="157" as="sourcePoint" />
+            <mxPoint x="458.5999999999999" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T7OsTbxaAlnbgz34bx-q-8" value="网站展示类别 FdItemType&lt;br&gt;FD_ITEMTYPE" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="555" y="30" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T7OsTbxaAlnbgz34bx-q-9" value="菜品标签&amp;nbsp;DishLabel&lt;br&gt;CBOH_DISH_LABEL_3CH" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="30" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T7OsTbxaAlnbgz34bx-q-11" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="T7OsTbxaAlnbgz34bx-q-6" target="T7OsTbxaAlnbgz34bx-q-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="484" y="180" as="sourcePoint" />
+            <mxPoint x="534" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T7OsTbxaAlnbgz34bx-q-12" value="1" style="endArrow=open;html=1;endSize=12;startArrow=diamondThin;startSize=14;startFill=0;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=bottom;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="T7OsTbxaAlnbgz34bx-q-16">
+          <mxGeometry x="0.0722" y="40" relative="1" as="geometry">
+            <mxPoint x="331" y="220" as="sourcePoint" />
+            <mxPoint x="360" y="190" as="targetPoint" />
+            <Array as="points" />
+            <mxPoint x="40" y="40" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T7OsTbxaAlnbgz34bx-q-13" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="815" y="95" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="T7OsTbxaAlnbgz34bx-q-14" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="140" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="T7OsTbxaAlnbgz34bx-q-15" value="菜谱明细之套餐 ItemprgPackage&lt;br&gt;CBOH_ITEMPRGPACKAGE_3CH" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="160" width="197.5" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="T7OsTbxaAlnbgz34bx-q-16" value="菜谱明细之菜品 Itemprgd&lt;br&gt;CBOH_PUBITEMTEAMDETAIL_3CH" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="160" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T7OsTbxaAlnbgz34bx-q-20" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="T7OsTbxaAlnbgz34bx-q-6" target="T7OsTbxaAlnbgz34bx-q-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="210" as="sourcePoint" />
+            <mxPoint x="460" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T7OsTbxaAlnbgz34bx-q-21" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="T7OsTbxaAlnbgz34bx-q-6" target="T7OsTbxaAlnbgz34bx-q-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="210" as="sourcePoint" />
+            <mxPoint x="460" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T7OsTbxaAlnbgz34bx-q-22" value="" style="endArrow=none;html=1;entryX=0.472;entryY=0.997;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="T7OsTbxaAlnbgz34bx-q-6" target="T7OsTbxaAlnbgz34bx-q-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="210" as="sourcePoint" />
+            <mxPoint x="460" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T7OsTbxaAlnbgz34bx-q-26" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="T7OsTbxaAlnbgz34bx-q-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="823" y="260" as="sourcePoint" />
+            <mxPoint x="825" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T7OsTbxaAlnbgz34bx-q-48" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="T7OsTbxaAlnbgz34bx-q-4" target="T7OsTbxaAlnbgz34bx-q-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="375" y="510" as="sourcePoint" />
+            <mxPoint x="375" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
