@@ -1,1 +1,58 @@
-<mxfile host="www.draw.io" modified="2020-03-20T03:27:35.135Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" version="12.8.8" etag="xGNjOpM5X_1qeww28oQh" type="github"><diagram id="bokl1O5iEgNC-Sl1CJQJ">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2020-03-20T03:28:56.753Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="K_BiAxfb5oKotgx2jlDM" version="12.8.8" type="github">
+  <diagram id="bokl1O5iEgNC-Sl1CJQJ" name="Page-1">
+    <mxGraphModel dx="1116" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Zj-SCOrm5n7-B_r6NguY-1" value="门店扫码菜谱&amp;nbsp;&lt;br&gt;（虚实体，没有表）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="245" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Zj-SCOrm5n7-B_r6NguY-2" value="菜品 Pubitem&lt;br&gt;CBOH_PUBITEM_3CH" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="57" y="50" width="156" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Zj-SCOrm5n7-B_r6NguY-3" value="" style="endArrow=open;html=1;endSize=12;startArrow=diamondThin;startSize=14;startFill=0;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=bottom;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.182;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Zj-SCOrm5n7-B_r6NguY-5" target="Zj-SCOrm5n7-B_r6NguY-1">
+          <mxGeometry x="0.0722" y="40" relative="1" as="geometry">
+            <mxPoint x="321" y="230" as="sourcePoint" />
+            <mxPoint x="382.5" y="240" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="350" y="200" />
+              <mxPoint x="350" y="240" />
+            </Array>
+            <mxPoint x="40" y="40" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zj-SCOrm5n7-B_r6NguY-4" value="扫码菜谱明细之套餐 ItemScanPrgpackage&lt;br&gt;CBOH_SCAN_ITEMPRGPACKAGE_3CH" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="170" width="237.5" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="Zj-SCOrm5n7-B_r6NguY-5" value="扫码菜谱明细之菜品 ItemScanPrgd&lt;br&gt;CBOH_SCAN_ITEMPRGD_3CH" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="170" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Zj-SCOrm5n7-B_r6NguY-6" value="" style="endArrow=none;html=1;" edge="1" parent="1" source="Zj-SCOrm5n7-B_r6NguY-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="813" y="270" as="sourcePoint" />
+            <mxPoint x="699" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zj-SCOrm5n7-B_r6NguY-7" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="135" y="110" as="sourcePoint" />
+            <mxPoint x="135" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zj-SCOrm5n7-B_r6NguY-8" value="套餐 PubPack&lt;br&gt;CBOH_PUBPACK_3CH" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="50" width="197.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Zj-SCOrm5n7-B_r6NguY-9" value="" style="endArrow=open;html=1;endSize=12;startArrow=diamondThin;startSize=14;startFill=0;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=bottom;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.824;entryY=0.083;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Zj-SCOrm5n7-B_r6NguY-4" target="Zj-SCOrm5n7-B_r6NguY-1">
+          <mxGeometry x="0.0722" y="40" relative="1" as="geometry">
+            <mxPoint x="475.96000000000004" y="185" as="sourcePoint" />
+            <mxPoint x="480.03999999999996" y="240" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="460" y="198" />
+            </Array>
+            <mxPoint x="40" y="40" as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
