@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-03-24T06:11:19.822Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="Jf37LjeERj0zR3x3L9q9" version="12.9.0" type="github">
+<mxfile host="www.draw.io" modified="2020-03-24T06:11:46.392Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="6xMkx9ajG7l4qZlwGLHM" version="12.9.0" type="github">
   <diagram id="wUpYCp4I_ln66o7LiVNV" name="Page-1">
     <mxGraphModel dx="892" dy="498" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -36,7 +36,7 @@
         <mxCell id="FMmh-wdX_Ces5Y1Ref45-22" value="附加项 Redfine&lt;br&gt;CBOH_REDEFINE_3CH" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="280" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FMmh-wdX_Ces5Y1Ref45-23" value="菜品 PubItem&lt;br&gt;CBOH_PUBITEM_3CH" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FMmh-wdX_Ces5Y1Ref45-23" value="（附加产品）菜品 PubItem&lt;br&gt;CBOH_PUBITEM_3CH" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="280" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FMmh-wdX_Ces5Y1Ref45-24" value="" style="endArrow=none;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="FMmh-wdX_Ces5Y1Ref45-23">
