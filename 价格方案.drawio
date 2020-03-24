@@ -1,1 +1,51 @@
-<mxfile host="www.draw.io" modified="2020-03-24T03:17:23.213Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" version="12.9.0" etag="hXZtBe7e8mw0_HNxn2LN" type="github"><diagram id="LnFNLlpS_rbvdEyZQknv">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2020-03-24T05:48:46.808Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="Z_t8hVYjK-C6C82PF1rO" version="12.9.0" type="github">
+  <diagram id="LnFNLlpS_rbvdEyZQknv" name="Page-1">
+    <mxGraphModel dx="892" dy="498" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="KCa7E6ZPmV6DDE37Dged-1" value="价格方案 Prcprgrm&lt;br&gt;CBOH_PRCPRGRM_3CH" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="60" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KCa7E6ZPmV6DDE37Dged-2" value="价格方案菜品信息 Ppitem&lt;br&gt;CBOH_PPITEM_3CH" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="60" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KCa7E6ZPmV6DDE37Dged-4" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="KCa7E6ZPmV6DDE37Dged-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="125" y="170" as="sourcePoint" />
+            <mxPoint x="143" y="20" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KCa7E6ZPmV6DDE37Dged-6" value="门店 Store&lt;br&gt;CBOH_STORE_3CH" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="180" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KCa7E6ZPmV6DDE37Dged-7" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="KCa7E6ZPmV6DDE37Dged-6" target="KCa7E6ZPmV6DDE37Dged-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="274" y="240" as="sourcePoint" />
+            <mxPoint x="200" y="240" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KCa7E6ZPmV6DDE37Dged-8" value="价格方案适用门店信息 Pstore&lt;br&gt;CBOH_PSTORE_3CH" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="60" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KCa7E6ZPmV6DDE37Dged-10" value="1" style="endArrow=open;html=1;endSize=12;startArrow=diamondThin;startSize=14;startFill=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=bottom;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="KCa7E6ZPmV6DDE37Dged-8">
+          <mxGeometry x="-1" y="3" relative="1" as="geometry">
+            <mxPoint x="470" y="90" as="sourcePoint" />
+            <mxPoint x="550" y="89.6" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KCa7E6ZPmV6DDE37Dged-13" value="1" style="endArrow=open;html=1;endSize=12;startArrow=diamondThin;startSize=14;startFill=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=bottom;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="KCa7E6ZPmV6DDE37Dged-2">
+          <mxGeometry x="-0.7778" y="20" relative="1" as="geometry">
+            <mxPoint x="300" y="90" as="sourcePoint" />
+            <mxPoint x="570" y="100" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KCa7E6ZPmV6DDE37Dged-15" value="菜品 PubItem&lt;br&gt;CBOH_PUBITEM_3CH" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="170" width="170" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
