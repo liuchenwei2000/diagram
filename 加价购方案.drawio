@@ -1,1 +1,60 @@
-<mxfile host="www.draw.io" modified="2020-03-24T03:18:10.177Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" version="12.9.0" etag="HVI2yv_kxW_gGZvkduT0" type="github"><diagram id="aHnSFY_lVHJRRScGlUTZ">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2020-03-24T07:52:22.907Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="TbY9P3-6qRZhnC3r5mUT" version="12.9.0" type="github">
+  <diagram id="aHnSFY_lVHJRRScGlUTZ" name="Page-1">
+    <mxGraphModel dx="892" dy="498" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="7J_5dOZZ6hB1ZEXu1xKR-2" value="门店品牌&amp;nbsp;Brand&lt;br&gt;CBOH_BRAND_3CH" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="30" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7J_5dOZZ6hB1ZEXu1xKR-3" value="加价购方案 PriceMarkupProg&lt;br&gt;CBOH_PRICEMARKUPPROG_3CH" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="285" y="140" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7J_5dOZZ6hB1ZEXu1xKR-4" value="推荐菜 PriceMarkuPubitem&lt;br&gt;CBOH_PRICEMARKUPUBITEM_3CH" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="140" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7J_5dOZZ6hB1ZEXu1xKR-5" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" target="7J_5dOZZ6hB1ZEXu1xKR-4" source="7J_5dOZZ6hB1ZEXu1xKR-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="135" y="250" as="sourcePoint" />
+            <mxPoint x="153" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7J_5dOZZ6hB1ZEXu1xKR-6" value="门店 Store&lt;br&gt;CBOH_STORE_3CH" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="250" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7J_5dOZZ6hB1ZEXu1xKR-7" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="7J_5dOZZ6hB1ZEXu1xKR-6" target="7J_5dOZZ6hB1ZEXu1xKR-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="284" y="320" as="sourcePoint" />
+            <mxPoint x="210" y="320" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7J_5dOZZ6hB1ZEXu1xKR-8" value="适用门店信息 PriceMarkuStore&lt;br&gt;CBOH_PRICEMARKUSTORE_3CH" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="140" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7J_5dOZZ6hB1ZEXu1xKR-9" value="1" style="endArrow=open;html=1;endSize=12;startArrow=diamondThin;startSize=14;startFill=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=bottom;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="7J_5dOZZ6hB1ZEXu1xKR-8" source="7J_5dOZZ6hB1ZEXu1xKR-3">
+          <mxGeometry x="-1" y="3" relative="1" as="geometry">
+            <mxPoint x="510" y="170" as="sourcePoint" />
+            <mxPoint x="560" y="169.6" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7J_5dOZZ6hB1ZEXu1xKR-10" value="1" style="endArrow=open;html=1;endSize=12;startArrow=diamondThin;startSize=14;startFill=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=bottom;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="7J_5dOZZ6hB1ZEXu1xKR-4" source="7J_5dOZZ6hB1ZEXu1xKR-3">
+          <mxGeometry x="-0.7778" y="20" relative="1" as="geometry">
+            <mxPoint x="280" y="170" as="sourcePoint" />
+            <mxPoint x="580" y="180" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7J_5dOZZ6hB1ZEXu1xKR-11" value="菜品 PubItem&lt;br&gt;CBOH_PUBITEM_3CH" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="250" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7J_5dOZZ6hB1ZEXu1xKR-12" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="7J_5dOZZ6hB1ZEXu1xKR-3" target="7J_5dOZZ6hB1ZEXu1xKR-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="230" as="sourcePoint" />
+            <mxPoint x="470" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
