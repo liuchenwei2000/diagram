@@ -1,1 +1,151 @@
-<mxfile host="www.draw.io" modified="2020-03-26T07:04:12.976Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" version="12.9.3" etag="t5NC-RBd3sfNo4I8l5l0" type="github"><diagram id="4V4tQLnMtYVtYV8gn-_p">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2020-03-26T08:09:14.014Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="YMKy0JXFlfR41GH5Og6k" version="12.9.3" type="github">
+  <diagram id="4V4tQLnMtYVtYV8gn-_p" name="Page-1">
+    <mxGraphModel dx="892" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="sSO3kZN4EnUUkSsGxBi6-1" value="PAD类别 PadClass&lt;br&gt;t_pad_class" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="219" y="40" width="146" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sSO3kZN4EnUUkSsGxBi6-2" value="菜品类别 FoodCate&lt;br&gt;t_food_cate" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="40" width="146" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sSO3kZN4EnUUkSsGxBi6-6" value="菜品 Food&lt;br&gt;t_food" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="170" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sSO3kZN4EnUUkSsGxBi6-8" value="展示类别 DishCate&lt;br&gt;t_dish_cate" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="389" y="40" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sSO3kZN4EnUUkSsGxBi6-9" value="菜品标签&amp;nbsp;DishLabel&lt;br&gt;t_dish_label" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="587.5" y="40" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sSO3kZN4EnUUkSsGxBi6-10" value="附加项类别 TFoodCookeryClassify&lt;br&gt;t_food_cookery_classify" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="89" y="500" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sSO3kZN4EnUUkSsGxBi6-11" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="sSO3kZN4EnUUkSsGxBi6-6" target="sSO3kZN4EnUUkSsGxBi6-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="494" y="190" as="sourcePoint" />
+            <mxPoint x="544" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sSO3kZN4EnUUkSsGxBi6-13" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="100" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="sSO3kZN4EnUUkSsGxBi6-14" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="160" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="sSO3kZN4EnUUkSsGxBi6-20" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="sSO3kZN4EnUUkSsGxBi6-6" target="sSO3kZN4EnUUkSsGxBi6-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="220" as="sourcePoint" />
+            <mxPoint x="470" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sSO3kZN4EnUUkSsGxBi6-21" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="sSO3kZN4EnUUkSsGxBi6-6" target="sSO3kZN4EnUUkSsGxBi6-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="220" as="sourcePoint" />
+            <mxPoint x="470" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sSO3kZN4EnUUkSsGxBi6-22" value="" style="endArrow=none;html=1;entryX=0.472;entryY=0.997;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="sSO3kZN4EnUUkSsGxBi6-6" target="sSO3kZN4EnUUkSsGxBi6-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="220" as="sourcePoint" />
+            <mxPoint x="470" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sSO3kZN4EnUUkSsGxBi6-31" value="菜品附加项 FoodCookry&lt;br&gt;t_food_cookery" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="89" y="400" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sSO3kZN4EnUUkSsGxBi6-35" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" target="sSO3kZN4EnUUkSsGxBi6-31" source="sSO3kZN4EnUUkSsGxBi6-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="375" y="455" as="sourcePoint" />
+            <mxPoint x="190" y="425" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sSO3kZN4EnUUkSsGxBi6-38" value="菜品附加产品 FoodMaterial&lt;br&gt;t_food_material 的 material_info 字段，JSON Array" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="400" width="287.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sSO3kZN4EnUUkSsGxBi6-42" value="菜品附加产品单项 FoodMaterialOutbizId" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="500" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sSO3kZN4EnUUkSsGxBi6-48" value="菜品规格 FoodRule&lt;br&gt;t_food_rule" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="59" y="170" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sSO3kZN4EnUUkSsGxBi6-49" value="菜品单位 FoodRule&lt;br&gt;t_food_unit" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="587.5" y="170" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sSO3kZN4EnUUkSsGxBi6-50" value="菜品附加项组 FoodCookeryInfo&lt;br&gt;t_food 的&amp;nbsp;cookery_info 字段，JSON Array" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="59" y="290" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sSO3kZN4EnUUkSsGxBi6-51" value="" style="endArrow=none;html=1;exitX=0.46;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="sSO3kZN4EnUUkSsGxBi6-50" target="sSO3kZN4EnUUkSsGxBi6-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="300" as="sourcePoint" />
+            <mxPoint x="510" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sSO3kZN4EnUUkSsGxBi6-52" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="230" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="sSO3kZN4EnUUkSsGxBi6-53" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="174" y="270" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="sSO3kZN4EnUUkSsGxBi6-54" value="" style="endArrow=none;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="sSO3kZN4EnUUkSsGxBi6-31" target="sSO3kZN4EnUUkSsGxBi6-50">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="300" as="sourcePoint" />
+            <mxPoint x="510" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sSO3kZN4EnUUkSsGxBi6-55" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="350" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="sSO3kZN4EnUUkSsGxBi6-57" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="380" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="sSO3kZN4EnUUkSsGxBi6-58" value="" style="endArrow=none;html=1;entryX=0.961;entryY=1.067;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.563;exitY=0.167;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="sSO3kZN4EnUUkSsGxBi6-64" target="sSO3kZN4EnUUkSsGxBi6-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="330" as="sourcePoint" />
+            <mxPoint x="510" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sSO3kZN4EnUUkSsGxBi6-61" value="" style="endArrow=none;html=1;entryX=0.471;entryY=1.067;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="sSO3kZN4EnUUkSsGxBi6-64">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="642" y="396" as="sourcePoint" />
+            <mxPoint x="510" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sSO3kZN4EnUUkSsGxBi6-64" value="菜品附加产品 FoodMaterialInfo&lt;br&gt;t_food_material" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="547.5" y="290" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sSO3kZN4EnUUkSsGxBi6-65" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="464" y="230" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="sSO3kZN4EnUUkSsGxBi6-66" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="270" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="sSO3kZN4EnUUkSsGxBi6-67" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="sSO3kZN4EnUUkSsGxBi6-38">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="604" y="500" as="sourcePoint" />
+            <mxPoint x="510" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sSO3kZN4EnUUkSsGxBi6-68" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="587.5" y="460" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="sSO3kZN4EnUUkSsGxBi6-71" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="587.5" y="480" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="sSO3kZN4EnUUkSsGxBi6-73" value="" style="endArrow=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="sSO3kZN4EnUUkSsGxBi6-6" target="sSO3kZN4EnUUkSsGxBi6-49">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="330" as="sourcePoint" />
+            <mxPoint x="510" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sSO3kZN4EnUUkSsGxBi6-74" value="" style="endArrow=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="sSO3kZN4EnUUkSsGxBi6-48">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="490" y="210" as="sourcePoint" />
+            <mxPoint x="310" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
