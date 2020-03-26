@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-03-26T08:09:14.014Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="YMKy0JXFlfR41GH5Og6k" version="12.9.3" type="github">
+<mxfile host="www.draw.io" modified="2020-03-26T08:29:16.594Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="ME_CpxFBaCbr6OzF7NZs" version="12.9.3" type="github">
   <diagram id="4V4tQLnMtYVtYV8gn-_p" name="Page-1">
     <mxGraphModel dx="892" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,7 +10,7 @@
         <mxCell id="sSO3kZN4EnUUkSsGxBi6-2" value="菜品类别 FoodCate&lt;br&gt;t_food_cate" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="40" width="146" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sSO3kZN4EnUUkSsGxBi6-6" value="菜品 Food&lt;br&gt;t_food" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="sSO3kZN4EnUUkSsGxBi6-6" value="集团菜品 Food&lt;br&gt;t_food" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="170" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sSO3kZN4EnUUkSsGxBi6-8" value="展示类别 DishCate&lt;br&gt;t_dish_cate" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
