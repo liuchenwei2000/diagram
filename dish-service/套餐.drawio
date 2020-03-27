@@ -1,1 +1,67 @@
-<mxfile host="www.draw.io" modified="2020-03-27T02:53:01.717Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" version="12.9.3" etag="zDz7DC96l314EaG5Pb0C" type="github"><diagram id="vkH5aodFz8MhrlMlZULJ">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2020-03-27T02:59:11.337Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="CFUCrAbgHd7Urf4YXwHi" version="12.9.3" type="github">
+  <diagram id="vkH5aodFz8MhrlMlZULJ" name="Page-1">
+    <mxGraphModel dx="892" dy="498" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="gy2O1oEqLo9lCzZCu9tm-1" value="套餐&amp;nbsp;&lt;br&gt;ComboDish" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="50" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gy2O1oEqLo9lCzZCu9tm-4" value="菜品SKU &lt;br&gt;DishSku" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gy2O1oEqLo9lCzZCu9tm-6" value="&lt;span style=&quot;color: rgb(23 , 43 , 77) ; font-family: , , &amp;#34;segoe ui&amp;#34; , &amp;#34;roboto&amp;#34; , &amp;#34;oxygen&amp;#34; , &amp;#34;ubuntu&amp;#34; , &amp;#34;fira sans&amp;#34; , &amp;#34;droid sans&amp;#34; , &amp;#34;helvetica neue&amp;#34; , sans-serif ; font-size: 14px ; text-align: left ; white-space: normal&quot;&gt;套餐组&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;text-align: left&quot;&gt;&lt;font color=&quot;#172b4d&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;ComboGroup&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="180" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gy2O1oEqLo9lCzZCu9tm-7" value="&lt;span style=&quot;color: rgb(23 , 43 , 77) ; font-family: , , &amp;#34;segoe ui&amp;#34; , &amp;#34;roboto&amp;#34; , &amp;#34;oxygen&amp;#34; , &amp;#34;ubuntu&amp;#34; , &amp;#34;fira sans&amp;#34; , &amp;#34;droid sans&amp;#34; , &amp;#34;helvetica neue&amp;#34; , sans-serif ; font-size: 14px ; text-align: left ; white-space: normal&quot;&gt;品牌菜品编码&lt;br&gt;BrandDishCode&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gy2O1oEqLo9lCzZCu9tm-8" value="1" style="endArrow=open;html=1;endSize=12;startArrow=diamondThin;startSize=14;startFill=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=bottom;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="gy2O1oEqLo9lCzZCu9tm-1" target="gy2O1oEqLo9lCzZCu9tm-4">
+          <mxGeometry x="-0.8" y="-10" relative="1" as="geometry">
+            <mxPoint x="230" y="110" as="sourcePoint" />
+            <mxPoint x="390" y="110" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gy2O1oEqLo9lCzZCu9tm-12" value="1" style="endArrow=open;html=1;endSize=12;startArrow=diamondThin;startSize=14;startFill=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=bottom;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="gy2O1oEqLo9lCzZCu9tm-1">
+          <mxGeometry x="-1" y="3" relative="1" as="geometry">
+            <mxPoint x="420" y="79.6" as="sourcePoint" />
+            <mxPoint x="490" y="80" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="480" y="80" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gy2O1oEqLo9lCzZCu9tm-15" value="1" style="endArrow=open;html=1;endSize=12;startArrow=diamondThin;startSize=14;startFill=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=bottom;" edge="1" parent="1">
+          <mxGeometry x="-0.5556" y="10" relative="1" as="geometry">
+            <mxPoint x="320" y="110" as="sourcePoint" />
+            <mxPoint x="320" y="180" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="320" y="110" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gy2O1oEqLo9lCzZCu9tm-18" value="&lt;span style=&quot;color: rgb(23 , 43 , 77) ; font-family: , , &amp;#34;segoe ui&amp;#34; , &amp;#34;roboto&amp;#34; , &amp;#34;oxygen&amp;#34; , &amp;#34;ubuntu&amp;#34; , &amp;#34;fira sans&amp;#34; , &amp;#34;droid sans&amp;#34; , &amp;#34;helvetica neue&amp;#34; , sans-serif ; font-size: 14px ; text-align: left ; white-space: normal&quot;&gt;套餐组明细&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;text-align: left&quot;&gt;&lt;font color=&quot;#172b4d&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;ComboGroupDetail&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gy2O1oEqLo9lCzZCu9tm-19" value="1" style="endArrow=open;html=1;endSize=12;startArrow=diamondThin;startSize=14;startFill=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=bottom;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="gy2O1oEqLo9lCzZCu9tm-18" source="gy2O1oEqLo9lCzZCu9tm-6">
+          <mxGeometry x="-1" y="-20" relative="1" as="geometry">
+            <mxPoint x="420" y="210" as="sourcePoint" />
+            <mxPoint x="460" y="170" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gy2O1oEqLo9lCzZCu9tm-24" value="菜品 &lt;br&gt;Dish" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gy2O1oEqLo9lCzZCu9tm-25" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="gy2O1oEqLo9lCzZCu9tm-18" target="gy2O1oEqLo9lCzZCu9tm-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="270" as="sourcePoint" />
+            <mxPoint x="430" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
