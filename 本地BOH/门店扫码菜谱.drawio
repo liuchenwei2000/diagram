@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-03-24T07:25:42.881Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="lduNgIk_aXpptoVmKqLZ" version="12.9.0" type="github">
+<mxfile host="www.draw.io" modified="2020-03-30T06:42:53.101Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="DE36sT6ZqhnYnsUEK-bI" version="12.9.3" type="github">
   <diagram id="bokl1O5iEgNC-Sl1CJQJ" name="Page-1">
     <mxGraphModel dx="892" dy="498" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -31,7 +31,7 @@
         <mxCell id="Zj-SCOrm5n7-B_r6NguY-8" value="套餐 PubPack&lt;br&gt;CBOH_PUBPACK_3CH" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="600" y="50" width="197.5" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oX9kXGZYcvOx5glxIGJ5-1" value="1" style="endArrow=open;html=1;endSize=12;startArrow=diamondThin;startSize=14;startFill=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=bottom;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Zj-SCOrm5n7-B_r6NguY-1" target="Zj-SCOrm5n7-B_r6NguY-5">
+        <mxCell id="oX9kXGZYcvOx5glxIGJ5-1" value="1" style="endArrow=open;html=1;endSize=12;startArrow=diamondThin;startSize=14;startFill=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=bottom;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Zj-SCOrm5n7-B_r6NguY-1" target="Zj-SCOrm5n7-B_r6NguY-5" edge="1">
           <mxGeometry x="-0.8571" y="-10" relative="1" as="geometry">
             <mxPoint x="330" y="100" as="sourcePoint" />
             <mxPoint x="280" y="210" as="targetPoint" />
@@ -42,10 +42,25 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oX9kXGZYcvOx5glxIGJ5-2" value="1" style="endArrow=open;html=1;endSize=12;startArrow=diamondThin;startSize=14;startFill=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=bottom;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Zj-SCOrm5n7-B_r6NguY-1" target="Zj-SCOrm5n7-B_r6NguY-4">
+        <mxCell id="oX9kXGZYcvOx5glxIGJ5-2" value="1" style="endArrow=open;html=1;endSize=12;startArrow=diamondThin;startSize=14;startFill=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=bottom;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Zj-SCOrm5n7-B_r6NguY-1" target="Zj-SCOrm5n7-B_r6NguY-4" edge="1">
           <mxGeometry x="-1" y="3" relative="1" as="geometry">
             <mxPoint x="330" y="100" as="sourcePoint" />
             <mxPoint x="570" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vybydpuCSpVvUERLvBEn-1" value="门店 Store&lt;br&gt;CBOH_STORE_3CH" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="322" y="280" width="146" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vybydpuCSpVvUERLvBEn-2" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Zj-SCOrm5n7-B_r6NguY-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="290" as="sourcePoint" />
+            <mxPoint x="320" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vybydpuCSpVvUERLvBEn-3" value="" style="endArrow=classic;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.606;exitY=0.989;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Zj-SCOrm5n7-B_r6NguY-4" target="vybydpuCSpVvUERLvBEn-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="290" as="sourcePoint" />
+            <mxPoint x="440" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
