@@ -1,10 +1,10 @@
-<mxfile host="www.draw.io" modified="2020-04-03T02:46:47.338Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="I7JIxcEzpX5IwBdDSltS" version="12.9.6" type="github">
+<mxfile host="www.draw.io" modified="2020-04-03T02:47:07.271Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="t5ypJ6sqPwTTbnpDQRUm" version="12.9.6" type="github">
   <diagram id="5Q2asgkg0ADDl4_MdKWm" name="Page-1">
     <mxGraphModel dx="892" dy="498" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="j1KfgDtCw7kQpafaiTb_-1" value="POS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="j1KfgDtCw7kQpafaiTb_-1" value="门店POS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="140" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="j1KfgDtCw7kQpafaiTb_-2" value="HHT" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
