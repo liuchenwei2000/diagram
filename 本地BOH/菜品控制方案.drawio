@@ -1,1 +1,57 @@
-<mxfile host="www.draw.io" modified="2020-04-08T02:12:23.753Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" version="12.9.6" etag="So3tCYcm744bWSQC-yNd" type="github"><diagram id="cK8F8pMkH70uwrFRZ_WJ">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2020-04-08T02:16:37.419Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="ks1_DwBo0TXF34loKshb" version="12.9.6" type="github">
+  <diagram id="cK8F8pMkH70uwrFRZ_WJ" name="Page-1">
+    <mxGraphModel dx="892" dy="498" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="__IbtWrpb6MtrGC2gggJ-1" value="菜品控制方案 DishControl&lt;br&gt;CBOH_DISHCONTROL_3CH" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="120" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="__IbtWrpb6MtrGC2gggJ-2" value="后上菜明细 AfterServerDish&lt;br&gt;CBOH_AFTERSERVERDISH_3CH" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="120" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="__IbtWrpb6MtrGC2gggJ-3" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" target="__IbtWrpb6MtrGC2gggJ-2" source="__IbtWrpb6MtrGC2gggJ-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="135" y="230" as="sourcePoint" />
+            <mxPoint x="153" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="__IbtWrpb6MtrGC2gggJ-4" value="门店 Store&lt;br&gt;CBOH_STORE_3CH" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="595" y="230" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="__IbtWrpb6MtrGC2gggJ-5" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="__IbtWrpb6MtrGC2gggJ-4" target="__IbtWrpb6MtrGC2gggJ-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="284" y="300" as="sourcePoint" />
+            <mxPoint x="210" y="300" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="__IbtWrpb6MtrGC2gggJ-6" value="适用门店明细 虚实体&lt;br&gt;CBOH_DISHCONTROL_DETAIL_3CH" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="120" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="__IbtWrpb6MtrGC2gggJ-7" value="1" style="endArrow=open;html=1;endSize=12;startArrow=diamondThin;startSize=14;startFill=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=bottom;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="__IbtWrpb6MtrGC2gggJ-6">
+          <mxGeometry x="-1" y="3" relative="1" as="geometry">
+            <mxPoint x="480" y="150" as="sourcePoint" />
+            <mxPoint x="560" y="149.6" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="__IbtWrpb6MtrGC2gggJ-8" value="1" style="endArrow=open;html=1;endSize=12;startArrow=diamondThin;startSize=14;startFill=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=bottom;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="__IbtWrpb6MtrGC2gggJ-2">
+          <mxGeometry x="-0.7778" y="20" relative="1" as="geometry">
+            <mxPoint x="310" y="150" as="sourcePoint" />
+            <mxPoint x="580" y="160" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="__IbtWrpb6MtrGC2gggJ-9" value="菜品 PubItem&lt;br&gt;CBOH_PUBITEM_3CH" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="35" y="230" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="__IbtWrpb6MtrGC2gggJ-11" value="" style="endArrow=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="__IbtWrpb6MtrGC2gggJ-9" target="__IbtWrpb6MtrGC2gggJ-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="230" as="sourcePoint" />
+            <mxPoint x="440" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
