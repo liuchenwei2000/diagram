@@ -1,1 +1,37 @@
-<mxfile host="www.draw.io" modified="2020-06-02T06:04:07.429Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" version="13.1.5" etag="581EbbUKzI_gm6f38QM9" type="github"><diagram id="D-8b82lZ98Zdsva_pA4C">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2020-06-02T06:13:00.437Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" etag="rtMI8Q0w4WiHaPBjKjFf" version="13.1.5" type="github">
+  <diagram id="D-8b82lZ98Zdsva_pA4C" name="Page-1">
+    <mxGraphModel dx="892" dy="498" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="BFcisRDphB1Nsh7uFnrR-1" value="门店 Store&lt;br&gt;CBOH_STORE_3CH" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="40" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BFcisRDphB1Nsh7uFnrR-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BFcisRDphB1Nsh7uFnrR-2" target="BFcisRDphB1Nsh7uFnrR-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BFcisRDphB1Nsh7uFnrR-2" value="门店区域 StoreArear&lt;br&gt;CBOH_STOREAREAR_3CH" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="150" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BFcisRDphB1Nsh7uFnrR-6" value="台位 SiteDefine&lt;br&gt;CBOH_SITEDEFINE_3CH" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="270" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BFcisRDphB1Nsh7uFnrR-7" value="台位类型 SiteType&lt;br&gt;CBOH_SITETYPE_3CH" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="160" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BFcisRDphB1Nsh7uFnrR-10" value="" style="endArrow=classic;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="BFcisRDphB1Nsh7uFnrR-6" target="BFcisRDphB1Nsh7uFnrR-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="290" as="sourcePoint" />
+            <mxPoint x="440" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BFcisRDphB1Nsh7uFnrR-11" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="BFcisRDphB1Nsh7uFnrR-6" target="BFcisRDphB1Nsh7uFnrR-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="290" as="sourcePoint" />
+            <mxPoint x="440" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
