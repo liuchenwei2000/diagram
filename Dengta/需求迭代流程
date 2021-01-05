@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-05T07:44:21.320Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="Z6ENtpbzQxe8dTVzAAZf" version="13.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-05T07:45:23.587Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="z7GlPKUmevjm-K8t8DOi" version="13.6.5" type="github">
   <diagram id="aTu9Ivt6fSHxm9Y0xt5t" name="Page-1">
     <mxGraphModel dx="928" dy="519" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -88,8 +88,8 @@
             <mxPoint x="387" y="950" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PIUo_U0sJKMX0wOwZIdy-26" value="1，需求不清或参与者理解的不一致，贯穿于整个迭代周期，越早讨论代价越小&lt;br&gt;2，频繁的沟通和讨论并记录纪要&lt;br&gt;3，系统Owner需要明确到人，建立主备，备owner无需100%掌握&lt;br&gt;4，清理Gitlab分支&lt;br&gt;5，按流程跑跑试试，有问题可以抛出来&lt;br&gt;6，各组leader要负责整个团队的代码质量和交付质量，起到传帮带的作用&lt;br&gt;7，条件允许的话，可以组内交叉测试，给测试留的时间尽量充足一些，不涉及本次迭代需求的bug，如果时间紧张，可以跟项目经理协商放到下个迭代处理。" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;" vertex="1" parent="1">
-          <mxGeometry x="180" y="1390" width="420" height="130" as="geometry" />
+        <mxCell id="PIUo_U0sJKMX0wOwZIdy-26" value="1，需求不清或参与者理解的不一致，贯穿于整个迭代周期，越早讨论代价越小&lt;br&gt;2，频繁的沟通和讨论并记录纪要" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;" vertex="1" parent="1">
+          <mxGeometry x="110" y="1140" width="420" height="130" as="geometry" />
         </mxCell>
         <mxCell id="PIUo_U0sJKMX0wOwZIdy-28" value="" style="endArrow=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PIUo_U0sJKMX0wOwZIdy-16" target="PIUo_U0sJKMX0wOwZIdy-20">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
