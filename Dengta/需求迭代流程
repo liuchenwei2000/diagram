@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-05T07:45:23.587Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="z7GlPKUmevjm-K8t8DOi" version="13.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-05T08:38:36.533Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="ggWVqnp9j7w4UQBDnvzJ" version="13.6.5" type="github">
   <diagram id="aTu9Ivt6fSHxm9Y0xt5t" name="Page-1">
     <mxGraphModel dx="928" dy="519" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -82,7 +82,7 @@
             <mxPoint x="396.99999999999795" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PIUo_U0sJKMX0wOwZIdy-24" value="" style="endArrow=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PIUo_U0sJKMX0wOwZIdy-48">
+        <mxCell id="PIUo_U0sJKMX0wOwZIdy-24" value="" style="endArrow=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.019;entryY=0.62;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="PIUo_U0sJKMX0wOwZIdy-48" target="PIUo_U0sJKMX0wOwZIdy-49">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="337" y="700" as="sourcePoint" />
             <mxPoint x="387" y="950" as="targetPoint" />
@@ -191,7 +191,7 @@
           <mxGeometry x="207" y="920" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PIUo_U0sJKMX0wOwZIdy-49" value="1，项目经理/产品经理验收，基于验收结果和测试报告评估是否具备上线条件" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="387" y="925" width="243" height="50" as="geometry" />
+          <mxGeometry x="400" y="920" width="243" height="50" as="geometry" />
         </mxCell>
         <mxCell id="PIUo_U0sJKMX0wOwZIdy-50" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PIUo_U0sJKMX0wOwZIdy-48" target="PIUo_U0sJKMX0wOwZIdy-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -200,7 +200,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PIUo_U0sJKMX0wOwZIdy-51" value="1，项目经理/产品经理、测试回归验证" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="387" y="1035" width="243" height="50" as="geometry" />
+          <mxGeometry x="400" y="1035" width="243" height="50" as="geometry" />
         </mxCell>
         <mxCell id="PIUo_U0sJKMX0wOwZIdy-54" value="" style="endArrow=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PIUo_U0sJKMX0wOwZIdy-5" target="PIUo_U0sJKMX0wOwZIdy-51">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -218,12 +218,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PIUo_U0sJKMX0wOwZIdy-57" value="1，技术给产品/测试进行提测演示" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="397" y="750" width="243" height="50" as="geometry" />
+          <mxGeometry x="400" y="750" width="243" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="PIUo_U0sJKMX0wOwZIdy-58" value="" style="endArrow=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PIUo_U0sJKMX0wOwZIdy-40" target="PIUo_U0sJKMX0wOwZIdy-57">
+        <mxCell id="PIUo_U0sJKMX0wOwZIdy-58" value="" style="endArrow=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="PIUo_U0sJKMX0wOwZIdy-40">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="322" y="840" as="sourcePoint" />
-            <mxPoint x="407.8130000000001" y="839.3500000000001" as="targetPoint" />
+            <mxPoint x="400" y="775" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
