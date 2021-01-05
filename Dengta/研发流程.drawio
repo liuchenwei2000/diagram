@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-05T01:29:43.036Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="YjSz1RJYqB4Pcq0WJveL" version="13.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-05T01:30:33.669Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="J6cRYdlTs52fsbVmbwYp" version="13.6.5" type="github">
   <diagram id="fmNGjkgLkNX6sRCFok3e" name="Page-1">
     <mxGraphModel dx="928" dy="519" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -112,8 +112,8 @@
         <mxCell id="tClvh8Lru7cAY0okebPW-32" value="CodeReview&lt;br&gt;1，系统owner负责Review&lt;br&gt;2，主讲人负责讲解业务背景和代码实现&lt;br&gt;3，CR需要关注的点：&lt;br&gt;代码规范性（阿里代码规约插件、FindBugs）&lt;br&gt;实现思路、代码注释&lt;br&gt;性能方面（时间和空间）&lt;br&gt;其他未想到的影响点&lt;br&gt;" style="shape=card;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="547" y="550" width="250" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="tClvh8Lru7cAY0okebPW-33" value="需求不清或参与者理解的不一致" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="1" vertex="1">
-          <mxGeometry x="67" y="570" width="80" height="100" as="geometry" />
+        <mxCell id="tClvh8Lru7cAY0okebPW-33" value="1，需求不清或参与者理解的不一致&lt;br&gt;2，频繁的沟通和讨论" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="1" vertex="1">
+          <mxGeometry x="67" y="570" width="80" height="130" as="geometry" />
         </mxCell>
         <mxCell id="tClvh8Lru7cAY0okebPW-34" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=140;exitDy=0;exitPerimeter=0;" parent="1" source="tClvh8Lru7cAY0okebPW-32" target="tClvh8Lru7cAY0okebPW-24" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
