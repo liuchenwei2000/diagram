@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-05T01:47:55.454Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="P7gLOaArpixlNNsm8du_" version="13.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-05T01:49:41.286Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="fMxWhdpy5je6hZVvq9YU" version="13.6.5" type="github">
   <diagram id="fmNGjkgLkNX6sRCFok3e" name="Page-1">
     <mxGraphModel dx="928" dy="519" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -85,7 +85,7 @@
             <mxPoint x="537" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tClvh8Lru7cAY0okebPW-23" value="1，架构图、时序图、类图&lt;br&gt;2，数据库表结构（细化到列）&lt;br&gt;3，接口设计、数据协议&lt;br&gt;&lt;br&gt;不要拘泥于形式，可以是word、txt或拍照" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="tClvh8Lru7cAY0okebPW-23" value="1，架构图、时序图、类图&lt;br&gt;2，数据库表结构（细化到列）&lt;br&gt;3，接口设计、数据协议&lt;br&gt;&lt;br&gt;不要拘泥于形式，可以是word、txt或拍照，放到知识库" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="547" y="335" width="240" height="50" as="geometry" />
         </mxCell>
         <mxCell id="tClvh8Lru7cAY0okebPW-24" value="1，Git分支管理（明确迭代分支、清理现有分支）&lt;br&gt;2，CodeReview&lt;br&gt;3，开发自测" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
