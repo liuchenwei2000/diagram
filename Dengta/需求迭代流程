@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-07T09:10:18.727Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="yoMivsg0eHMS96Rci-c9" version="14.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-07T09:11:20.342Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="imWigHpqzcA-E_bBKPfh" version="14.1.8" type="github">
   <diagram id="aTu9Ivt6fSHxm9Y0xt5t" name="Page-1">
     <mxGraphModel dx="928" dy="519" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -49,7 +49,7 @@
         <mxCell id="PIUo_U0sJKMX0wOwZIdy-16" value="需求迭代计划&lt;br&gt;（提测点、上线点）" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="676" y="590" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="PIUo_U0sJKMX0wOwZIdy-19" value="1，跟项目经理讨论原始需求&lt;br&gt;2，形成初步解决方案后和&lt;br&gt;开发测试讨论粗估人天" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="PIUo_U0sJKMX0wOwZIdy-19" value="1，跟项目经理讨论原始需求&lt;br&gt;2，形成初步解决方案后和&lt;br&gt;开发测试讨论粗估人天（人天有异议可以上升到技术负责人评审）" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="499" y="475" width="162" height="50" as="geometry" />
         </mxCell>
         <mxCell id="PIUo_U0sJKMX0wOwZIdy-20" value="1，跟项目经理讨论确认需求优先级&lt;br&gt;2，跟技术侧负责人讨论确认需求迭代资源（开发+测试）" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
